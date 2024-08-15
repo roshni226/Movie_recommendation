@@ -21,5 +21,5 @@ This Python project provides a movie recommendation system. The system fetches m
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/username/movie-recommendation.git
+   git clone https://github.com/roshni226/Movie-recommendation.git
    cd movie-recommendation
